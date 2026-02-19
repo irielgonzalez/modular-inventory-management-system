@@ -25,9 +25,9 @@ This project strengthened my understanding of system modelling, modular architec
 __________________________________________________________________________________________
 __________________________________________________________________________________________
 
-Steps followed for this project in detail:
+# Steps followed for this project in detail:
 
-# Items and containers 
+## Items and containers 
 
 This program that reads items and containers from files items.csv and containers.csv, and prints the list of items.
 
@@ -123,7 +123,7 @@ Notice how the total weight and capacity of the backpack are updated based on th
 
 An additional file, multi_containers.csv, now provides the description of containers that have multiple compartments, each behaving like an independent container. The menu itself does not change.
 
-# Container with multiple compartments
+## Container with multiple compartments
 
 The empty weight of a container with multiple compartments is the sum of the empty weights of the compartments.
 
@@ -133,12 +133,12 @@ Displaying a container with multiple compartments now shows the items stored in 
 
 An additional file, magic_containers.csv, now provides the description of containers that behave like containers with a single compartment, but that do no increase in weight if items are stored in them. They still have a maximum capacity, though.
 
-# Magic containers
+## Magic containers
 
 The total weight remains equal to the empty way. The capacity is computed as for a non-magical container. 
 
 An additional file, magic_multi_containers.csv, now provides the description of containers that behave like containers with multiple compartments, and, like the other magic containers, do no increase in weight if items are stored in them. Each compartment still has a maximum capacity.
 
-# Magic containers with multiple compartments
+## Magic containers with multiple compartments
 
 The total weight remains equal to the empty way. The capacity is computed as for a non-magical container with multiple compartments, which is that it is computed and displayed at the compartment level. See Example 1 for a complete example.
