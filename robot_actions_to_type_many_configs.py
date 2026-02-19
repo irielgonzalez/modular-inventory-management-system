@@ -1,9 +1,8 @@
 """
-This program asks for a string and plans Robbie's
+This program asks for a string and plans the robot's
 actions to type the string choosing the fastest option
 between different keyboards, in order to perform
 the least amount of operations possible.
-
 """
 
 # Keyboards from which we will select the fastest alternative to type a string.
