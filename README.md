@@ -1,19 +1,17 @@
 # modular-inventory-management-system
 
-Overview
+## Overview
 
 This project implements a modular, object-oriented system to manage items across multiple container types, including single-compartment, multi-compartment, and specialised container configurations.
 
 The system allows users to interactively manage inventory, organise storage structures, and simulate hierarchical storage behaviour through scalable and reusable components.
 
-Technical Concepts Applied
+## Technical Concepts Applied
 - Object-Oriented Programming (OOP)
 - Abstraction and encapsulation
 - Inheritance and polymorphism
 - Modular system design
 - Structured input validation
-
-Technologies Used: Python
 
 The system allows users to:
 - Create containers
@@ -21,7 +19,7 @@ The system allows users to:
 - Manage multi-compartment configurations
 - Simulate structured storage environments
 
------ Learning Outcomes:
+## Learning Outcomes:
 This project strengthened my understanding of system modelling, modular architecture, and scalable software design.
 
 __________________________________________________________________________________________
