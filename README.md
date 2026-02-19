@@ -6,20 +6,20 @@ This project implements a modular, object-oriented system to manage items across
 
 The system allows users to interactively manage inventory, organise storage structures, and simulate hierarchical storage behaviour through scalable and reusable components.
 
----- Technical Concepts Applied
-Object-Oriented Programming (OOP)
-Abstraction and encapsulation
-Inheritance and polymorphism
-Modular system design
-Structured input validation
+Technical Concepts Applied
+- Object-Oriented Programming (OOP)
+- Abstraction and encapsulation
+- Inheritance and polymorphism
+- Modular system design
+- Structured input validation
 
------ Technologies Used: Python
+Technologies Used: Python
 
------ The system allows users to:
-Create containers
-Add items dynamically
-Manage multi-compartment configurations
-Simulate structured storage environments
+The system allows users to:
+- Create containers
+- Add items dynamically
+- Manage multi-compartment configurations
+- Simulate structured storage environments
 
 ----- Learning Outcomes:
 This project strengthened my understanding of system modelling, modular architecture, and scalable software design.
